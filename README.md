@@ -233,7 +233,7 @@ We create a multiple linear regression by utilising all columns with the positiv
 
 We will exclude Bathrooms from this model as it is not statistically significant as per model 2.
 
-https://github.com/Kelta153/dsc_phase-2_project/blob/main/images/m3.png
+
 
 <img
       src="https://github.com/Kelta153/dsc_phase-2_project/blob/main/images/m3.png"
