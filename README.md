@@ -1,13 +1,13 @@
 # Phase 2 Project
+
 ### Final Project Submission
-Please fill out:
+
 * Student name: GROUP 7
 * Members:  Maureen Kariuki, Aisha Mbarak, MariaCharlote Mbiyu, Jared Kiprotich, Lee Kamaita, Samuel Lumumba,  Edward Opollo
 * Student pace: part time  
-* Scheduled project review date/time: 
-* Instructor name: 
-* Blog post URL:
 
+
+# PROPERTY PRICE  PREDICTION - REGRESSION MODELS
 ## Business Problem
 
 To initiate the project, the following business problems have been formulated for analysis:
